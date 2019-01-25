@@ -30,5 +30,5 @@
 			total += time[rowIndex][column];
 		}
 	return total;
+	} 
 	}
-}
