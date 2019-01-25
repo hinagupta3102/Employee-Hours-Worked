@@ -1,8 +1,10 @@
 # Employee-Hours-Worked
-Python
-public class ComputeEmployeeWeeklyHoursClass {
+#Python
+	
+	public class ComputeEmployeeWeeklyHoursClass {
 
-public static void main(String[] args) {
+
+	public static void main(String[] args) {
 		// Employee's weekly hours
 		int[][] hours = {
 				{2, 4, 3, 4, 5, 8, 8},
